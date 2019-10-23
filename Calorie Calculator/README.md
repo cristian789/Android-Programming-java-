@@ -16,4 +16,4 @@ amount of calories a burger could have adding and subtracting items
 **Lessons learned**
 ---
 This Android App uses a Seek bar, checkboxes,
-and Radio groups. 
+and Radio groups while adding and subtracting the calories live. 
